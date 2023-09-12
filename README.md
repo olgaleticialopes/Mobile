@@ -26,3 +26,6 @@
 </div>
 <img align=center src="https://media.discordapp.net/attachments/700742922542514257/1151292634174849024/image.png?width=1032&height=580">
 
+<div align="center">
+  <p><a href="">Clique para verificar o site do codelab</a></p>
+</div>
