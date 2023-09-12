@@ -1,16 +1,28 @@
-# prova
 
-A new Flutter project.
+<div align=center>
+  
+  # 📱 CodeLab primeiro aplicativo em flutter :)
 
-## Getting Started
+  ## 🖥️ Preview desktop 
 
-This project is a starting point for a Flutter application.
+  ### Tela inicial:
+  
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+ <img align=center src="https://media.discordapp.net/attachments/700742922542514257/1151292544798425191/image.png?width=1032&height=580">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align=center>
+  
+  ### Tela favoritos:
+  
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img align=center src="https://media.discordapp.net/attachments/700742922542514257/1151292633906425956/image.png?width=1032&height=580">
+
+<div align=center>
+  
+  ### Palavras favoritas:
+  
+</div>
+<img align=center src="https://media.discordapp.net/attachments/700742922542514257/1151292634174849024/image.png?width=1032&height=580">
+
