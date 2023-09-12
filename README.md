@@ -25,6 +25,7 @@ Espero que gostem, com muito carinho, Leti. 💖
 | 06  | [Agenda](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-30)                               | 
 | 07  | [Catalogo de itens](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-06-16)                               | 
 | 08  | [Music Player ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-08-01)                              | 
+| 08  | [CodeLab flutter ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-09-12)                              | 
 
 
 
