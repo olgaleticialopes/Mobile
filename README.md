@@ -1,34 +1,32 @@
 <div align=center>
   
-  # 👩‍💻🌺 Projetos Flutter/Dart
+   # 👩‍💻🌺 Flutter/Dart Projects
 
 </div>
 
 
 <div align= center >
-Este repositorio contem todos os meus projetos feitos em Flutter/Dart, durante as aulas de Programação mobile I.
+This repository contains all my projects made in Flutter/Dart, during Mobile Programming I classes.
   
-Para visualizar-los basta dar um click no nome do projeto e você sera direcionado a pasta do projeto.  
+To view them, simply click on the project name and you will be directed to the project folder.
 
-Espero que gostem, com muito carinho, Leti. 💖
+I hope you like it, with great affection, Leti. 💖
 </div>
 
 <div align= center >
   
-  |🌺  | Meus Projetos!                                                                                                                
-| :-: | --------------------------------------------------------------------------------------------------------------------------- |
-| 01  | [Noções basicas](https://github.com/olgaleticialopes/Mobile)            |
-| 02  | [Calculadora](https://github.com/olgaleticialopes/Mobile/tree/aula_20230328)                               | 
-| 03  | [Lista de musicas](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-04-11)                       | 
-| 04  | [Teste seu conhecimento](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-02)                          |
-| 05  | [Cardapio](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-23)                               | 
-| 06  | [Agenda](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-30)                               | 
-| 07  | [Catalogo de itens](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-06-16)                               | 
-| 08  | [Music Player ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-08-01)                              | 
-| 08  | [CodeLab flutter ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-09-12)                              | 
+   |🌺 | My Projects!
+| :-: | -------------------------------------------------- -------------------------------------------------- ----------------------- |
+| 01 | [Basics](https://github.com/olgaleticialopes/Mobile) |
+| 02 | [Calculator](https://github.com/olgaleticialopes/Mobile/tree/aula_20230328) |
+| 03 | [List of songs](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-04-11) |
+| 04 | [Test your knowledge](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-02) |
+| 05 | [Menu](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-23) |
+| 06 | [Agenda](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-05-30) |
+| 07 | [Item catalog](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-06-16) |
+| 08 | [Music Player ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-08-01) |
+| 08 | [CodeLab flutter ](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-09-12) |
 
 
 
 </div>
-
-
