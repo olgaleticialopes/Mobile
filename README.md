@@ -15,8 +15,8 @@ I hope you like it, with great affection, Leti. 💖
 
 <div align= center >
   
-   |🌺 | My Projects!
-| :-: | -------------------------------------------------- -------------------------------------------------- ----------------------- |
+|🌺 | My Projects!
+| :-:| -------------------------------------------------- |
 | 01 | [Basics](https://github.com/olgaleticialopes/Mobile) |
 | 02 | [Calculator](https://github.com/olgaleticialopes/Mobile/tree/aula_20230328) |
 | 03 | [List of songs](https://github.com/olgaleticialopes/Mobile/tree/aula-2023-04-11) |
